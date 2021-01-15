@@ -1,0 +1,22 @@
+c:\users\jared\documents\visual studio 2013\Projects\Oscilliscope1\Oscilliscope1\bin\Debug\Oscilliscope1.exe.config
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\Oscilliscope1\Oscilliscope1\bin\Debug\Oscilliscope1.exe
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\Oscilliscope1\Oscilliscope1\bin\Debug\Oscilliscope1.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\Oscilliscope1\Oscilliscope1\obj\Debug\Oscilliscope1.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\Oscilliscope1\Oscilliscope1\obj\Debug\Oscilliscope1.Oscilloscope.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\Oscilliscope1\Oscilliscope1\obj\Debug\Oscilliscope1.Properties.Resources.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\Oscilliscope1\Oscilliscope1\obj\Debug\Oscilliscope1.csproj.GenerateResource.Cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\Oscilliscope1\Oscilliscope1\obj\Debug\Oscilliscope1.exe
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\Oscilliscope1\Oscilliscope1\obj\Debug\Oscilliscope1.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\Oscilliscope1\Oscilliscope1\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\Oscilliscope1\Oscilliscope1\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\Ravi-T440\Documents\Grad\Oscilliscope1\Oscilliscope1\bin\Debug\Oscilliscope1.exe.config
+C:\Users\Ravi-T440\Documents\Grad\Oscilliscope1\Oscilliscope1\obj\Debug\Oscilliscope1.exe
+C:\Users\Ravi-T440\Documents\Grad\Oscilliscope1\Oscilliscope1\obj\Debug\Oscilliscope1.pdb
+C:\Users\Ravi-T440\Documents\Grad\Oscilliscope1\Oscilliscope1\bin\Debug\Oscilliscope1.exe
+C:\Users\Ravi-T440\Documents\Grad\Oscilliscope1\Oscilliscope1\bin\Debug\Oscilliscope1.pdb
+C:\Users\Ravi-T440\Documents\Grad\Oscilliscope1\Oscilliscope1\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\Ravi-T440\Documents\Grad\Oscilliscope1\Oscilliscope1\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\Ravi-T440\Documents\Grad\Oscilliscope1\Oscilliscope1\obj\Debug\Oscilliscope1.csprojResolveAssemblyReference.cache
+C:\Users\Ravi-T440\Documents\Grad\Oscilliscope1\Oscilliscope1\obj\Debug\Oscilliscope1.Oscilloscope.resources
+C:\Users\Ravi-T440\Documents\Grad\Oscilliscope1\Oscilliscope1\obj\Debug\Oscilliscope1.Properties.Resources.resources
+C:\Users\Ravi-T440\Documents\Grad\Oscilliscope1\Oscilliscope1\obj\Debug\Oscilliscope1.csproj.GenerateResource.Cache
